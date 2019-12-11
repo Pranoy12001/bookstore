@@ -1,0 +1,24 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+hr {
+	border: none;
+	height: 1px;
+	color: #333;
+	background-color: #333;
+	border-top: 1px solid #333;
+}
+
+.container {
+	width: 98%;
+}
+
+.box {
+	border: 1px solid red;
+}
